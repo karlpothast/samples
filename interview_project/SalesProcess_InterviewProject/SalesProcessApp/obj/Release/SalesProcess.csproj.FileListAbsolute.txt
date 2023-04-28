@@ -1,0 +1,14 @@
+C:\Users\karlp\source\repos\SalesProcessApp\bin\Release\SalesProcess.exe.config
+C:\Users\karlp\source\repos\SalesProcessApp\bin\Release\SalesProcess.exe
+C:\Users\karlp\source\repos\SalesProcessApp\bin\Release\SalesProcess.pdb
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.csproj.AssemblyReference.cache
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.csproj.SuggestedBindingRedirects.cache
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.CustomerForm.resources
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.CreateOrderForm.resources
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.DefaultForm.resources
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.Properties.Resources.resources
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.ViewOrderForm.resources
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.csproj.GenerateResource.cache
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.csproj.CoreCompileInputs.cache
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.exe
+C:\Users\karlp\source\repos\SalesProcessApp\obj\Release\SalesProcess.pdb
